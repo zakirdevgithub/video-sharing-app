@@ -1,6 +1,6 @@
 Live Link: https://www.youtube.com/watch?v=bAKSkRVMU3I&t=337s&ab_channel=ZakirDev
 # video-sharing-app
-As Like Youtube. Django, GraphQL, React, Material UI, Cloudinary
+As Like Youtube. I have used Python, Graphene, Django, GraphQL, React, Material UI, Cloudinary.
 
 Home Page
 ![HomePage](https://user-images.githubusercontent.com/68065676/122260360-fe605400-cef4-11eb-8625-d2bbb9486c90.png)
